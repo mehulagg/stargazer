@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "remotion preview src/index.js",
-    "build": "remotion render src/index.js main out.mp4 --quality 100 --crf 0 --log verbose"
+    "build": "remotion render src/index.js main out.mp4 --quality 100 --crf 1 --log verbose"
   },
   "license": "UNLICENSED",
   "dependencies": {
