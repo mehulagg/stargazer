@@ -36,8 +36,8 @@ function RemotionVideo() {
       component={Video}
       durationInFrames={FPS * inputProps.duration}
       fps={FPS}
-      width={1920}
-      height={1080}
+      width={3840}
+      height={2160}
       defaultProps={{
         ...inputProps,
         stargazers,
