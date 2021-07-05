@@ -8,7 +8,7 @@ import {
 import { Video } from "./video";
 import { fetchStargazers } from "./fetch";
 
-const FPS = 60;
+const FPS = 120;
 
 const defaultProps = {
   repoOrg: "code-hike",
